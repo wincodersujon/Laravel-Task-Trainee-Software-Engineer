@@ -3,7 +3,9 @@
 1. Laravel Setup:
 Project Name: Basic-Inventory-Management-System
 PHP Version : 8.0
-Laravel Version: 9.0
+Laravel Version : 9.0
+Server : Wampserver
+Code Editor: Visual studio code
 
 2. Database Design:
 Table Name: Products->data(id,name,quantity,price)
