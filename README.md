@@ -1,4 +1,4 @@
-
+https://www.figma.com/proto/a8dvoCHzx3TV2YWvRMj3Pd/Expense-NEW?type=design&node-id=463-10124&scaling=min-zoom&page-id=1%3A5&starting-point-node-id=1278%3A17940
 <!-- 
 1. Laravel Setup:
 Project Name: Basic-Inventory-Management-System
